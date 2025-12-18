@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mrinali-charhate.vercel.app/](https://mrinali-charhate.vercel.app/)
 
-- 💬 Ask me about **AI, ML, Frontend**
+- 💬 Ask me about **AI, ML & Cyber Security**
 
 - 📫 How to reach me **mrinalicharhate@gmail.com**
 
