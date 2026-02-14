@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinaliii&label=Profile%20views&color=0e75b6&style=flat" alt="mrinaliii" /> </p>
 
-- 🔭 I’m currently working on [SkillForge](http://skillforge-alb-140512097.ap-south-1.elb.amazonaws.com/)
+- 🔭 I’m currently working on [SecureSense](https://github.com/mrinaliii/SecureSense)
 
 - 👨‍💻 All of my projects are available at [https://mrinali-charhate.vercel.app/](https://mrinali-charhate.vercel.app/)
 
